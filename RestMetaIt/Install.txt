@@ -1,0 +1,1 @@
+﻿Aplikaci vzpublikovat v sestavení Release. Dle požadavku zákazníka nasait na server/cloud apod.
